@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## The Push For Change Project
+
+Connecting developers with charity managed open-source projects
 
 You can use the [editor on GitHub](https://github.com/dnorton94/thepushforchangeproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
